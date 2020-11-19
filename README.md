@@ -10,4 +10,4 @@ There is nothing fancy here, just a few lines of code.
 ###### Usage
 
 Run the `Mouser.exe` file located in the `bin` directory, or compile the `main.cpp` file.
-To close stop the program execution, press `ctrl + C`.
+To stop the program execution, press `ctrl + C`.
